@@ -73,8 +73,8 @@
     $("#controls").submit(function() {    
       new AhaApi({
         accountDomain: $("#subdomain").val(),
-        clientId: "18bcb008d56448bb7a57f56116cfc260d7319f3b97cd8ae78199d2c800bcad6d", // NOTE: replace this with your client ID.
-        redirectUri: "https://c0ldbear.github.io/src/aha-test"
+        clientId: "35e165305a547a2b863a84f553f942587adf220371fb8fbf590f61f61c2e422c", // NOTE: replace this with your client ID.
+        redirectUri: "https://c0ldbear.github.io/src/aha-test.html"
       }).authenticate(function(api, success, message) {
         var productKey = $("#product-key").val();
         
