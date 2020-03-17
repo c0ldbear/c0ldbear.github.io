@@ -74,12 +74,12 @@
       new AhaApi({
         accountDomain: $("#subdomain").val(),
         clientId: "18bcb008d56448bb7a57f56116cfc260d7319f3b97cd8ae78199d2c800bcad6d", // NOTE: replace this with your client ID.
-        redirectUri: "https://dl.dropboxusercontent.com/s/kwvq16dqsdft4ng/javascript-api-example.html?dl=0"
+        redirectUri: "https://c0ldbear.github.io/src/aha-test"
       }).authenticate(function(api, success, message) {
         var productKey = $("#product-key").val();
         
         // Hide the controls.
-        //$("#controls").remove();
+        $("#controls").remove();
         
         // Fetch up to 200 features in one big fetch.
         api.get("/products/" + productKey + "/features", {per_page: 200, fields: 'reference_num,name,description,requirements'}, function(response) {
