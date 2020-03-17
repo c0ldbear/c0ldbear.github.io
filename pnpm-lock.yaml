@@ -1,0 +1,13 @@
+dependencies:
+  ejs: 3.0.1
+lockfileVersion: 5.1
+packages:
+  /ejs/3.0.1:
+    dev: false
+    engines:
+      node: '>=0.10.0'
+    requiresBuild: true
+    resolution:
+      integrity: sha512-cuIMtJwxvzumSAkqaaoGY/L6Fc/t6YvoP9/VIaK0V/CyqKLEQ8sqODmYfy/cjXEdZ9+OOL8TecbJu+1RsofGDw==
+specifiers:
+  ejs: ^3.0.1
