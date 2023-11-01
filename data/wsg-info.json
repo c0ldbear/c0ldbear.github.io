@@ -1,0 +1,560 @@
+[
+    {
+      "Id": "2.1",
+      "Title": "Undertake Systemic Impacts Mapping",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "2.2",
+      "Title": "Assess and Research Visitor Needs",
+      "Impact": "Medium",
+      "Effort": "High"
+    },
+    {
+      "Id": "2.3",
+      "Title": "Research Non-Visitor's Needs",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "2.4",
+      "Title": "Consider Sustainability in Early Ideation",
+      "Impact": "Low",
+      "Effort": "Low"
+    },
+    {
+      "Id": "2.5",
+      "Title": "Account for Stakeholder Issues",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "2.6",
+      "Title": "Create a Frictionless Lightweight Experience by Default",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "2.7",
+      "Title": "Avoid Unnecessary or an Overabundance of Assets",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "2.8",
+      "Title": "Ensure Navigation and Way-Finding Are Well-Structured",
+      "Impact": "Low",
+      "Effort": "Low"
+    },
+    {
+      "Id": "2.9",
+      "Title": "Respect the Visitor's Attention",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "2.10",
+      "Title": "Use Recognized Design Patterns",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "2.11",
+      "Title": "Avoid Manipulative Patterns",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "2.12",
+      "Title": "Document and Share Project Outputs",
+      "Impact": "Medium",
+      "Effort": "High"
+    },
+    {
+      "Id": "2.13",
+      "Title": "Use a Design System To Prioritize Interface Consistency",
+      "Impact": "Low",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "2.14",
+      "Title": "Write With Purpose, in an Accessible, Easy To Understand Format",
+      "Impact": "Low",
+      "Effort": "Low"
+    },
+    {
+      "Id": "2.15",
+      "Title": "Take a More Sustainable Approach to Image Assets",
+      "Impact": "High",
+      "Effort": "Low"
+    },
+    {
+      "Id": "2.16",
+      "Title": "Take a More Sustainable Approach to Media Assets",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "2.17",
+      "Title": "Take a More Sustainable Approach to Animation",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "2.18",
+      "Title": "Take a More Sustainable Approach to Typefaces",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "2.19",
+      "Title": "Provide Suitable Alternatives to Web Assets",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "2.20",
+      "Title": "Provide Accessible, Usable, Minimal Web Forms",
+      "Impact": "Low",
+      "Effort": "Low"
+    },
+    {
+      "Id": "2.21",
+      "Title": "Support Non-Graphic Ways To Interact With Content",
+      "Impact": "Low",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "2.22",
+      "Title": "Give Useful Notifications To Improve The Visitor's Journey",
+      "Impact": "Low",
+      "Effort": "Low"
+    },
+    {
+      "Id": "2.23",
+      "Title": "Reduce the Impact of Downloadable or Physical Documents",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "2.24",
+      "Title": "Create a Stakeholder-Focused Testing & Prototyping Policy",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "2.25",
+      "Title": "Conduct Regular Audits, Regression, and Non-Regression Tests",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "2.26",
+      "Title": "Analyze The Performance Of The Visitor Journey",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "2.27",
+      "Title": "Incorporate Value Testing Into Each Major Release-Cycle",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "2.28",
+      "Title": "Incorporate Usability Testing Into Each Minor Release-Cycle",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "2.29",
+      "Title": "Incorporate Compatibility Testing Into Each Release-Cycle",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "3.1",
+      "Title": "Identify Relevant Technical Indicators",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "3.2",
+      "Title": "Minify Your HTML, CSS, and JavaScript",
+      "Impact": "Low",
+      "Effort": "Low"
+    },
+    {
+      "Id": "3.3",
+      "Title": "Use Code-Splitting Within Projects",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "3.4",
+      "Title": "Apply Tree Shaking To Code",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "3.5",
+      "Title": "Ensure Your Solutions Are Accessible",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "3.6",
+      "Title": "Avoid Code Duplication",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "3.7",
+      "Title": "Rigorously Assess Third-Party Services",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "3.8",
+      "Title": "Use HTML Elements Correctly",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "3.9",
+      "Title": "Resolve Render Blocking Content",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "3.10",
+      "Title": "Provide Code-Based Way-Finding Mechanisms",
+      "Impact": "Low",
+      "Effort": "Low"
+    },
+    {
+      "Id": "3.11",
+      "Title": "Validate Form Errors and External Input",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "3.12",
+      "Title": "Use Metadata Correctly",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "3.13",
+      "Title": "Adapt to User Preferences",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "3.14",
+      "Title": "Develop a Mobile-First Layout",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "3.15",
+      "Title": "Use Beneficial JavaScript and Its API's",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "3.16",
+      "Title": "Ensure Your Scripts Are Secure",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "3.17",
+      "Title": "Manage Dependencies Appropriately",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "3.18",
+      "Title": "Include Files That Are Automatically Expected",
+      "Impact": "Low",
+      "Effort": "Low"
+    },
+    {
+      "Id": "3.19",
+      "Title": "Use Plaintext Formats When Appropriate",
+      "Impact": "Low",
+      "Effort": "Low"
+    },
+    {
+      "Id": "3.20",
+      "Title": "Avoid Using Deprecated or Proprietary Code",
+      "Impact": "Low",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "3.21",
+      "Title": "Align Technical Requirements With Sustainability Goals",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "3.22",
+      "Title": "Use the Latest Stable Language Version",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "3.23",
+      "Title": "Take Advantage of Native Features",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "3.24",
+      "Title": "Run Fewer, Simpler Queries As Possible",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "4.1",
+      "Title": "Choose a Sustainable Hosting Provider",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "4.2",
+      "Title": "Optimize Browser Caching",
+      "Impact": "High",
+      "Effort": "High"
+    },
+    {
+      "Id": "4.3",
+      "Title": "Compress Your Files",
+      "Impact": "High",
+      "Effort": "Low"
+    },
+    {
+      "Id": "4.4",
+      "Title": "Use Error Pages and Redirects Carefully",
+      "Impact": "Low",
+      "Effort": "Low"
+    },
+    {
+      "Id": "4.5",
+      "Title": "Limit Usage of Additional Environments",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "4.6",
+      "Title": "Automate To Fit the Needs",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "4.7",
+      "Title": "Maintain a Relevant Refresh Frequency",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "4.8",
+      "Title": "Be Mindful of Duplicate Data",
+      "Impact": "Low",
+      "Effort": "Low"
+    },
+    {
+      "Id": "4.9",
+      "Title": "Enable Asynchronous Processing and Communication",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "4.10",
+      "Title": "Consider CDN's and Edge Caching",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "4.11",
+      "Title": "Use the Lowest Infrastructure Tier Meeting Business Requirements",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "4.12",
+      "Title": "Store Data According to Visitor Needs",
+      "Impact": "Low",
+      "Effort": "Low"
+    },
+    {
+      "Id": "5.1",
+      "Title": "Have an Ethical and Sustainability Product Strategy",
+      "Impact": "High",
+      "Effort": "High"
+    },
+    {
+      "Id": "5.2",
+      "Title": "Assign a Sustainability Representative",
+      "Impact": "Medium",
+      "Effort": "Low"
+    },
+    {
+      "Id": "5.3",
+      "Title": "Raise Awareness and Inform",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.4",
+      "Title": "Communicate the Ecological Impact of User Choices",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.5",
+      "Title": "Estimate a Product or Service's Environmental Impact",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.6",
+      "Title": "Define Clear Organizational Sustainability Goals and Metrics",
+      "Impact": "Low",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.7",
+      "Title": "Verify Your Efforts Using Established Third-Party Business Certifications",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.8",
+      "Title": "Implement Sustainability Onboarding Guidelines",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.9",
+      "Title": "Support Mandatory Disclosures and Reporting",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.10",
+      "Title": "Create One or More Impact Business Models",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.11",
+      "Title": "Follow a Product Management and Maintenance Strategy",
+      "Impact": "High",
+      "Effort": "Low"
+    },
+    {
+      "Id": "5.12",
+      "Title": "Implement Continuous Improvement Procedures",
+      "Impact": "High",
+      "Effort": "High"
+    },
+    {
+      "Id": "5.13",
+      "Title": "Document Future Updates and Evolutions",
+      "Impact": "Low",
+      "Effort": "Low"
+    },
+    {
+      "Id": "5.14",
+      "Title": "Establish if a Digital Product or Service Is Necessary",
+      "Impact": "High",
+      "Effort": "Low"
+    },
+    {
+      "Id": "5.15",
+      "Title": "Determine the Functional Unit",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.16",
+      "Title": "Create a Supplier Standards of Practice",
+      "Impact": "High",
+      "Effort": "High"
+    },
+    {
+      "Id": "5.17",
+      "Title": "Share Economic Benefits",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.18",
+      "Title": "Share Decision-Making Power With Appropriate Stakeholders",
+      "Impact": "Low",
+      "Effort": "High"
+    },
+    {
+      "Id": "5.19",
+      "Title": "Use Justice, Equity, Diversity, Inclusion (JEDI) Practices",
+      "Impact": "High",
+      "Effort": "High"
+    },
+    {
+      "Id": "5.20",
+      "Title": "Promote Responsible Data Practices",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.21",
+      "Title": "Implement Appropriate Data Management Procedures",
+      "Impact": "Low",
+      "Effort": "High"
+    },
+    {
+      "Id": "5.22",
+      "Title": "Promote Responsible Emerging Technology Practices",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.23",
+      "Title": "Include Responsible Financial Policies",
+      "Impact": "High",
+      "Effort": "High"
+    },
+    {
+      "Id": "5.24",
+      "Title": "Include Organizational Philanthropy Policies",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.25",
+      "Title": "Plan for a Digital Product or Service's Care and End-of-Life",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.26",
+      "Title": "Include E-Waste, Right-To-Repair, and Recycling Policies",
+      "Impact": "High",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.27",
+      "Title": "Define Performance and Environmental Budgets",
+      "Impact": "Medium",
+      "Effort": "Medium"
+    },
+    {
+      "Id": "5.28",
+      "Title": "Use Open Source Tools",
+      "Impact": "High",
+      "Effort": "High"
+    }
+  ]
