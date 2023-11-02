@@ -18,25 +18,14 @@ jobs:
           - name: Install gems via bundle
             run: bundle install
 
-          - name: List all files
-            run: ls -l
-
-          - name: List files in 'scripts'
-            run: find scripts
-          
           - name: Change to 'scripts' directory and run 'save.rb'
             run: |
               cd scripts
               ruby ./save.rb
 
-          # - name: Where am I?
-          #   run: pwd
-
-          # - name: List everything in 'scripts'
-          #   run: find .
-          
-          # - name: Run script 'save.rb'
-          #   run: ruby ./save.rb
-          
-          - name: List all files in 'data' directory
-            run: ls ./data
+          - name: Commit updated file
+            run: |
+              git config --global user.name 'b0t c0ldbear'
+              git config --global user.email 'teddyjh@proton.me'
+              git commit -am "Automated update of WSG Data"
+              git push
