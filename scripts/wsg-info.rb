@@ -28,7 +28,6 @@ def get_wsg_info
         end
 
         result = result_json 
-        # result = wsg_json.to_json
     else
         puts "Failed! #{response.code}"
     end
