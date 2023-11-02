@@ -1,0 +1,23 @@
+name: Update WSG Data
+
+on: 
+  workflow_dispatch:
+
+jobs:
+  Update-WSG-Data:
+      runs-on: ubuntu-latest
+      steps:
+          - name: Checkout repository
+            uses: actions/checkout@v4
+
+          - name: Install gems via bundle
+            run: bundle install
+          
+          - name: Change to 'scripts' directory
+            run: cd scripts
+          
+          - name: Run script 'save.rb'
+            run: ruby save.rb
+          
+          - name: List all files in 'data' directory
+            run: ls ../data
