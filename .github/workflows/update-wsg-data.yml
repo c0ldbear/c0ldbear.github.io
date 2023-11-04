@@ -1,6 +1,11 @@
 name: Update WSG Data
 
 on: 
+  push:
+    branches:
+      - main
+    paths:
+      - './scripts/'
   workflow_dispatch:
 
 jobs:
