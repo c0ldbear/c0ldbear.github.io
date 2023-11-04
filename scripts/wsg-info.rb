@@ -12,11 +12,16 @@ def get_wsg_info
     if response.code == 200
         wsg_json = JSON.parse(response.body)
 
-        wsg_json["category"].each do |category|
+        wsg_json[Constant::CATEGORY].each do |category|
             if !category["guidelines"].nil? 
                 section_id = category[Constant::ID]
+                section_name = category[Constant::NAME]
                 category["guidelines"].each do |guideline|
                     json_obj[Constant::TITLE] = section_id + "." + guideline[Constant::ID].to_s + " " + guideline["guideline"]
+                    json_obj[Constant::CATEGORY] = {
+                        Constant::ID => section_id,
+                        Constant::TITLE => section_name
+                    }
                     json_obj[Constant::DESCRIPTION] = guideline[Constant::DESCRIPTION]
                     json_obj[Constant::IMPACT] = guideline[Constant::IMPACT]
                     json_obj[Constant::EFFORT] = guideline[Constant::EFFORT]
@@ -35,7 +40,9 @@ def get_wsg_info
 end
 
 class Constant
+    CATEGORY = "category"
     ID = "id"
+    NAME = "name"
     DESCRIPTION = "description"
     TITLE = "title"
     BENEFITS = "benefits"
