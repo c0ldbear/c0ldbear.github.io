@@ -23,6 +23,10 @@ jobs:
               cd scripts
               ruby ./save.rb
 
+          - name: Check git diff after fetching WSG and parsing it
+            run: |
+              git diff >> $GITHUB_ENV
+
           - name: Commit updated file
             run: |
               git config --global user.name 'b0t c0ldbear'
@@ -30,3 +34,4 @@ jobs:
               git add .
               git commit -am "Automated update of WSG Data"
               git push
+            if: ${{ env.GITHUB_ENV != '' }}
