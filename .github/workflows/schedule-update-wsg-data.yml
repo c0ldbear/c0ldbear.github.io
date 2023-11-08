@@ -1,0 +1,34 @@
+name: Scheduled Update WSG Data
+
+on: 
+  schedule:
+    - cron:  '32 5 10 * *'
+    # runs at 05:32 on day-of-month 10 
+
+jobs:
+  Scheduled-Update-WSG-Data:
+      runs-on: ubuntu-latest
+      steps:
+          - name: Checkout repository
+            uses: actions/checkout@v4
+
+          - name: Install bundler
+            run: | 
+              sudo gem install bundler
+              sudo chmod -R 777 /var/lib/gems/
+
+          - name: Install gems via bundle
+            run: bundle install
+
+          - name: Change to 'scripts' directory and run 'save.rb'
+            run: |
+              cd scripts
+              ruby ./save.rb
+
+          - name: Commit updated file
+            run: |
+              git config --global user.name 'b0t c0ldbear'
+              git config --global user.email 'teddyjh@proton.me'
+              git add .
+              git commit -am "Automated update of WSG Data"
+              git push
