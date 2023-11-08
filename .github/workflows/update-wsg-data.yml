@@ -1,12 +1,12 @@
-name: Scheduled Update WSG Data
+name: Update WSG Data
 
 on: 
-  schedule:
-    - cron:  '32 5 10 * *'
-    # runs at 05:32 on day-of-month 10 
   push:
     branches:
       - 'master'
+  schedule:
+    - cron:  '32 5 10 * *'
+    # runs at 05:32 on day-of-month 10 
 
 
 jobs:
