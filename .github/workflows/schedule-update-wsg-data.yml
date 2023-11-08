@@ -4,6 +4,10 @@ on:
   schedule:
     - cron:  '32 5 10 * *'
     # runs at 05:32 on day-of-month 10 
+  push:
+    branches:
+      - 'master'
+
 
 jobs:
   Scheduled-Update-WSG-Data:
