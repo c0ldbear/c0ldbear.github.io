@@ -19,7 +19,8 @@
       "Software",
       "Networking",
       "Reporting"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#undertake-systemic-impacts-mapping"
   },
   {
     "title": "2.2 Assess and Research Visitor Needs",
@@ -41,7 +42,8 @@
       "Compatibility",
       "Reporting",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#assess-and-research-visitor-needs"
   },
   {
     "title": "2.3 Research Non-Visitor's Needs",
@@ -62,7 +64,8 @@
       "Reporting",
       "KPIs",
       "Marketing"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#research-non-visitor-s-needs"
   },
   {
     "title": "2.4 Consider Sustainability in Early Ideation",
@@ -79,7 +82,8 @@
       "Research",
       "Software",
       "Strategy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#consider-sustainability-in-early-ideation"
   },
   {
     "title": "2.5 Account for Stakeholder Issues",
@@ -97,7 +101,8 @@
       "Research",
       "Strategy",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#account-for-stakeholder-issues"
   },
   {
     "title": "2.6 Create a Frictionless Lightweight Experience by Default",
@@ -115,7 +120,8 @@
       "Patterns",
       "Usability",
       "Performance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#create-a-frictionless-lightweight-experience-by-default"
   },
   {
     "title": "2.7 Avoid Unnecessary or an Overabundance of Assets",
@@ -131,7 +137,8 @@
       "Usability",
       "Assets",
       "Performance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#avoid-unnecessary-or-an-overabundance-of-assets"
   },
   {
     "title": "2.8 Ensure Navigation and Way-Finding Are Well-Structured",
@@ -148,7 +155,8 @@
       "Usability",
       "HTML",
       "Marketing"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#ensure-navigation-and-way-finding-are-well-structured"
   },
   {
     "title": "2.9 Respect the Visitor's Attention",
@@ -164,7 +172,8 @@
       "Patterns",
       "Usability",
       "Assets"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#respect-the-visitor-s-attention"
   },
   {
     "title": "2.10 Use Recognized Design Patterns",
@@ -181,7 +190,8 @@
       "Usability",
       "Assets",
       "CSS"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#use-recognized-design-patterns"
   },
   {
     "title": "2.11 Avoid Manipulative Patterns",
@@ -205,7 +215,8 @@
       "JavaScript",
       "Security",
       "Privacy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#avoid-manipulative-patterns"
   },
   {
     "title": "2.12 Document and Share Project Outputs",
@@ -222,7 +233,8 @@
       "Education",
       "Assets",
       "Software"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#document-and-share-project-outputs"
   },
   {
     "title": "2.13 Use a Design System To Prioritize Interface Consistency",
@@ -240,7 +252,8 @@
       "Usability",
       "Assets",
       "Strategy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#use-a-design-system-to-prioritize-interface-consistency"
   },
   {
     "title": "2.14 Write With Purpose, in an Accessible, Easy To Understand Format",
@@ -257,7 +270,8 @@
       "Content",
       "UI",
       "Usability"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#write-with-purpose-in-an-accessible-easy-to-understand-format"
   },
   {
     "title": "2.15 Take a More Sustainable Approach to Image Assets",
@@ -276,7 +290,8 @@
       "HTML",
       "Performance",
       "Software"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#take-a-more-sustainable-approach-to-image-assets"
   },
   {
     "title": "2.16 Take a More Sustainable Approach to Media Assets",
@@ -295,7 +310,8 @@
       "HTML",
       "Performance",
       "Software"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#take-a-more-sustainable-approach-to-media-assets"
   },
   {
     "title": "2.17 Take a More Sustainable Approach to Animation",
@@ -313,7 +329,8 @@
       "CSS",
       "JavaScript",
       "Performance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#take-a-more-sustainable-approach-to-animation"
   },
   {
     "title": "2.18 Take a More Sustainable Approach to Typefaces",
@@ -329,7 +346,8 @@
       "Usability",
       "CSS",
       "Performance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#take-a-more-sustainable-approach-to-typefaces"
   },
   {
     "title": "2.19 Provide Suitable Alternatives to Web Assets",
@@ -350,7 +368,8 @@
       "Assets",
       "HTML",
       "Performance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#provide-suitable-alternatives-to-web-assets"
   },
   {
     "title": "2.20 Provide Accessible, Usable, Minimal Web Forms",
@@ -368,7 +387,8 @@
       "Usability",
       "HTML",
       "Privacy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#provide-accessible-usable-minimal-web-forms"
   },
   {
     "title": "2.21 Support Non-Graphic Ways To Interact With Content",
@@ -389,7 +409,8 @@
       "HTML",
       "Performance",
       "Software"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#support-non-graphic-ways-to-interact-with-content"
   },
   {
     "title": "2.22 Give Useful Notifications To Improve The Visitor's Journey",
@@ -405,7 +426,8 @@
       "Usability",
       "JavaScript",
       "Privacy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#give-useful-notifications-to-improve-the-visitor-s-journey"
   },
   {
     "title": "2.23 Reduce the Impact of Downloadable or Physical Documents",
@@ -426,7 +448,8 @@
       "Hardware",
       "Software",
       "E-Waste"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#reduce-the-impact-of-downloadable-or-physical-documents"
   },
   {
     "title": "2.24 Create a Stakeholder-Focused Testing & Prototyping Policy",
@@ -446,7 +469,8 @@
       "Education",
       "Usability",
       "Governance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#create-a-stakeholder-focused-testing-&-prototyping-policy"
   },
   {
     "title": "2.25 Conduct Regular Audits, Regression, and Non-Regression Tests",
@@ -469,7 +493,8 @@
       "Privacy",
       "Reporting",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#conduct-regular-audits-regression-and-non-regression-tests"
   },
   {
     "title": "2.26 Analyze the Performance of the Visitor Journey",
@@ -488,7 +513,8 @@
       "Networking",
       "Strategy",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#analyze-the-performance-of-the-visitor-journey"
   },
   {
     "title": "2.27 Incorporate Value Testing Into Each Major Release-Cycle",
@@ -504,7 +530,8 @@
       "Usability",
       "Strategy",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#incorporate-value-testing-into-each-major-release-cycle"
   },
   {
     "title": "2.28 Incorporate Usability Testing Into Each Minor Release-Cycle",
@@ -523,7 +550,8 @@
       "Usability",
       "Strategy",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#incorporate-usability-testing-into-each-minor-release-cycle"
   },
   {
     "title": "2.29 Incorporate Compatibility Testing Into Each Release-Cycle",
@@ -545,7 +573,8 @@
       "Security",
       "Strategy",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#incorporate-compatibility-testing-into-each-release-cycle"
   },
   {
     "title": "3.1 Identify Relevant Technical Indicators",
@@ -563,7 +592,8 @@
       "Networking",
       "Strategy",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#identify-relevant-technical-indicators"
   },
   {
     "title": "3.2 Minify Your HTML, CSS, and JavaScript",
@@ -579,7 +609,8 @@
       "CSS",
       "JavaScript",
       "Performance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#minify-your-html-css-and-javascript"
   },
   {
     "title": "3.3 Use Code-Splitting Within Projects",
@@ -594,7 +625,8 @@
       "CSS",
       "JavaScript",
       "Performance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#use-code-splitting-within-projects"
   },
   {
     "title": "3.4 Apply Tree Shaking To Code",
@@ -609,7 +641,8 @@
       "CSS",
       "JavaScript",
       "Performance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#apply-tree-shaking-to-code"
   },
   {
     "title": "3.5 Ensure Your Solutions Are Accessible",
@@ -630,7 +663,8 @@
       "Compatibility",
       "Software",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#ensure-your-solutions-are-accessible"
   },
   {
     "title": "3.6 Avoid Code Duplication",
@@ -646,7 +680,8 @@
       "CSS",
       "JavaScript",
       "Performance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#avoid-code-duplication"
   },
   {
     "title": "3.7 Rigorously Assess Third-Party Services",
@@ -665,7 +700,8 @@
       "Software",
       "Security",
       "Privacy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#rigorously-assess-third-party-services"
   },
   {
     "title": "3.8 Use HTML Elements Correctly",
@@ -683,7 +719,8 @@
       "Usability",
       "Compatibility",
       "HTML"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#use-html-elements-correctly"
   },
   {
     "title": "3.9 Resolve Render Blocking Content",
@@ -699,7 +736,8 @@
       "CSS",
       "JavaScript",
       "Performance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#resolve-render-blocking-content"
   },
   {
     "title": "3.10 Provide Code-Based Way-Finding Mechanisms",
@@ -716,7 +754,8 @@
       "Usability",
       "HTML",
       "Marketing"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#provide-code-based-way-finding-mechanisms"
   },
   {
     "title": "3.11 Validate Form Errors and External Input",
@@ -734,7 +773,8 @@
       "Compatibility",
       "HTML",
       "Security"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#validate-form-errors-and-external-input"
   },
   {
     "title": "3.12 Use Metadata Correctly",
@@ -750,7 +790,8 @@
       "Usability",
       "HTML",
       "Marketing"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#use-metadata-correctly"
   },
   {
     "title": "3.13 Adapt to User Preferences",
@@ -767,7 +808,8 @@
       "Usability",
       "Assets",
       "CSS"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#adapt-to-user-preferences"
   },
   {
     "title": "3.14 Develop a Mobile-First Layout",
@@ -784,7 +826,8 @@
       "Compatibility",
       "CSS",
       "Performance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#develop-a-mobile-first-layout"
   },
   {
     "title": "3.15 Use Beneficial JavaScript and Its API's",
@@ -799,7 +842,8 @@
       "Accessibility",
       "JavaScript",
       "Security"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#use-beneficial-javascript-and-its-api-s"
   },
   {
     "title": "3.16 Ensure Your Scripts Are Secure",
@@ -815,7 +859,8 @@
       "JavaScript",
       "Security",
       "Privacy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#ensure-your-scripts-are-secure"
   },
   {
     "title": "3.17 Manage Dependencies Appropriately",
@@ -832,7 +877,8 @@
       "Performance",
       "Software",
       "Security"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#manage-dependencies-appropriately"
   },
   {
     "title": "3.18 Include Files That Are Automatically Expected",
@@ -849,7 +895,8 @@
       "Compatibility",
       "Assets",
       "Marketing"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#include-files-that-are-automatically-expected"
   },
   {
     "title": "3.19 Use Plaintext Formats When Appropriate",
@@ -863,7 +910,8 @@
     "tags": [
       "Patterns",
       "Security"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#use-plaintext-formats-when-appropriate"
   },
   {
     "title": "3.20 Avoid Using Deprecated or Proprietary Code",
@@ -881,7 +929,8 @@
       "CSS",
       "JavaScript",
       "Performance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#avoid-using-deprecated-or-proprietary-code"
   },
   {
     "title": "3.21 Align Technical Requirements With Sustainability Goals",
@@ -897,7 +946,8 @@
       "Compatibility",
       "Performance",
       "Strategy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#align-technical-requirements-with-sustainability-goals"
   },
   {
     "title": "3.22 Use the Latest Stable Language Version",
@@ -912,7 +962,8 @@
       "Compatibility",
       "Performance",
       "Security"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#use-the-latest-stable-language-version"
   },
   {
     "title": "3.23 Take Advantage of Native Features",
@@ -930,7 +981,8 @@
       "HTML",
       "CSS",
       "JavaScript"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#take-advantage-of-native-features"
   },
   {
     "title": "3.24 Run Fewer, Simpler Queries As Possible",
@@ -944,7 +996,8 @@
     "tags": [
       "Performance",
       "Networking"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#run-fewer-simpler-queries-as-possible"
   },
   {
     "title": "4.1 Choose a Sustainable Hosting Provider",
@@ -959,7 +1012,8 @@
       "Social Equity",
       "Hardware",
       "Networking"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#choose-a-sustainable-hosting-provider"
   },
   {
     "title": "4.2 Optimize Browser Caching",
@@ -976,7 +1030,8 @@
       "JavaScript",
       "Performance",
       "Networking"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#optimize-browser-caching"
   },
   {
     "title": "4.3 Compress Your Files",
@@ -991,7 +1046,8 @@
       "Assets",
       "Performance",
       "Networking"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#compress-your-files"
   },
   {
     "title": "4.4 Use Error Pages and Redirects Carefully",
@@ -1009,7 +1065,8 @@
       "Compatibility",
       "Networking",
       "Marketing"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#use-error-pages-and-redirects-carefully"
   },
   {
     "title": "4.5 Limit Usage of Additional Environments",
@@ -1025,7 +1082,8 @@
       "Hardware",
       "Software",
       "Networking"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#limit-usage-of-additional-environments"
   },
   {
     "title": "4.6 Automate To Fit the Needs",
@@ -1039,7 +1097,8 @@
     "tags": [
       "Performance",
       "Software"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#automate-to-fit-the-needs"
   },
   {
     "title": "4.7 Maintain a Relevant Refresh Frequency",
@@ -1055,7 +1114,8 @@
       "JavaScript",
       "Performance",
       "Networking"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#maintain-a-relevant-refresh-frequency"
   },
   {
     "title": "4.8 Be Mindful of Duplicate Data",
@@ -1069,7 +1129,8 @@
     "tags": [
       "Performance",
       "Hardware"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#be-mindful-of-duplicate-data"
   },
   {
     "title": "4.9 Enable Asynchronous Processing and Communication",
@@ -1084,7 +1145,8 @@
       "JavaScript",
       "Performance",
       "Networking"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#enable-asynchronous-processing-and-communication"
   },
   {
     "title": "4.10 Consider CDN's and Edge Caching",
@@ -1100,7 +1162,8 @@
       "Performance",
       "Hardware",
       "Networking"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#consider-cdn-s-and-edge-caching"
   },
   {
     "title": "4.11 Use the Lowest Infrastructure Tier Meeting Business Requirements",
@@ -1115,7 +1178,8 @@
       "Performance",
       "Hardware",
       "E-Waste"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#use-the-lowest-infrastructure-tier-meeting-business-requirements"
   },
   {
     "title": "4.12 Store Data According to Visitor Needs",
@@ -1132,7 +1196,8 @@
       "Hardware",
       "E-Waste",
       "Privacy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#store-data-according-to-visitor-needs"
   },
   {
     "title": "5.1 Have an Ethical and Sustainability Product Strategy",
@@ -1150,7 +1215,8 @@
       "Education",
       "Strategy",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#have-an-ethical-and-sustainability-product-strategy"
   },
   {
     "title": "5.2 Assign a Sustainability Representative",
@@ -1166,7 +1232,8 @@
       "Ideation",
       "Education",
       "Marketing"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#assign-a-sustainability-representative"
   },
   {
     "title": "5.3 Raise Awareness and Inform",
@@ -1182,7 +1249,8 @@
       "Education",
       "Reporting",
       "Marketing"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#raise-awareness-and-inform"
   },
   {
     "title": "5.4 Communicate the Ecological Impact of User Choices",
@@ -1197,7 +1265,8 @@
       "Content",
       "Education",
       "Reporting"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#communicate-the-ecological-impact-of-user-choices"
   },
   {
     "title": "5.5 Estimate a Product or Service's Environmental Impact",
@@ -1214,7 +1283,8 @@
       "Research",
       "Strategy",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#estimate-a-product-or-service-s-environmental-impact"
   },
   {
     "title": "5.6 Define Clear Organizational Sustainability Goals and Metrics",
@@ -1231,7 +1301,8 @@
       "Research",
       "Governance",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#define-clear-organizational-sustainability-goals-and-metrics"
   },
   {
     "title": "5.7 Verify Your Efforts Using Established Third-Party Business Certifications",
@@ -1245,7 +1316,8 @@
     "tags": [
       "Governance",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#verify-your-efforts-using-established-third-party-business-certifications"
   },
   {
     "title": "5.8 Implement Sustainability Onboarding Guidelines",
@@ -1259,7 +1331,8 @@
     "tags": [
       "Education",
       "Strategy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#implement-sustainability-onboarding-guidelines"
   },
   {
     "title": "5.9 Support Mandatory Disclosures and Reporting",
@@ -1274,7 +1347,8 @@
       "Content",
       "Reporting",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#support-mandatory-disclosures-and-reporting"
   },
   {
     "title": "5.10 Create One or More Impact Business Models",
@@ -1290,7 +1364,8 @@
       "Ideation",
       "Research",
       "Strategy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#create-one-or-more-impact-business-models"
   },
   {
     "title": "5.11 Follow a Product Management and Maintenance Strategy",
@@ -1304,7 +1379,8 @@
     "tags": [
       "Compatibility",
       "Strategy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#follow-a-product-management-and-maintenance-strategy"
   },
   {
     "title": "5.12 Implement Continuous Improvement Procedures",
@@ -1322,7 +1398,8 @@
       "Security",
       "Strategy",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#implement-continuous-improvement-procedures"
   },
   {
     "title": "5.13 Document Future Updates and Evolutions",
@@ -1338,7 +1415,8 @@
       "Education",
       "Usability",
       "Compatibility"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#document-future-updates-and-evolutions"
   },
   {
     "title": "5.14 Establish if a Digital Product or Service Is Necessary",
@@ -1354,7 +1432,8 @@
       "Software",
       "E-Waste",
       "Reporting"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#establish-if-a-digital-product-or-service-is-necessary"
   },
   {
     "title": "5.15 Determine the Functional Unit",
@@ -1369,7 +1448,8 @@
       "Ideation",
       "Research",
       "Reporting"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#determine-the-functional-unit"
   },
   {
     "title": "5.16 Create a Supplier Standards of Practice",
@@ -1386,7 +1466,8 @@
       "Ideation",
       "Hardware",
       "Governance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#create-a-supplier-standards-of-practice"
   },
   {
     "title": "5.17 Share Economic Benefits",
@@ -1400,7 +1481,8 @@
     "tags": [
       "Social Equity",
       "Governance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#share-economic-benefits"
   },
   {
     "title": "5.18 Share Decision-Making Power With Appropriate Stakeholders",
@@ -1415,7 +1497,8 @@
       "Social Equity",
       "Ideation",
       "Strategy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#share-decision-making-power-with-appropriate-stakeholders"
   },
   {
     "title": "5.19 Use Justice, Equity, Diversity, Inclusion (JEDI) Practices",
@@ -1431,7 +1514,8 @@
       "Accessibility",
       "Ideation",
       "Strategy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#use-justice-equity-diversity-inclusion-jedi-practices"
   },
   {
     "title": "5.20 Promote Responsible Data Practices",
@@ -1447,7 +1531,8 @@
       "Content",
       "Privacy",
       "Governance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#promote-responsible-data-practices"
   },
   {
     "title": "5.21 Implement Appropriate Data Management Procedures",
@@ -1463,7 +1548,8 @@
       "Security",
       "Privacy",
       "Strategy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#implement-appropriate-data-management-procedures"
   },
   {
     "title": "5.22 Promote Responsible Emerging Technology Practices",
@@ -1478,7 +1564,8 @@
       "Social Equity",
       "Content",
       "Governance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#promote-responsible-emerging-technology-practices"
   },
   {
     "title": "5.23 Include Responsible Financial Policies",
@@ -1493,7 +1580,8 @@
       "Social Equity",
       "Ideation",
       "Governance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#include-responsible-financial-policies"
   },
   {
     "title": "5.24 Include Organizational Philanthropy Policies",
@@ -1508,7 +1596,8 @@
       "Social Equity",
       "Content",
       "Governance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#include-organizational-philanthropy-policies"
   },
   {
     "title": "5.25 Plan for a Digital Product or Service's Care and End-of-Life",
@@ -1526,7 +1615,8 @@
       "Software",
       "E-Waste",
       "Strategy"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#plan-for-a-digital-product-or-service-s-care-and-end-of-life"
   },
   {
     "title": "5.26 Include E-Waste, Right-To-Repair, and Recycling Policies",
@@ -1544,7 +1634,8 @@
       "Hardware",
       "E-Waste",
       "Governance"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#include-e-waste-right-to-repair-and-recycling-policies"
   },
   {
     "title": "5.27 Define Performance and Environmental Budgets",
@@ -1562,7 +1653,8 @@
       "Usability",
       "Performance",
       "KPIs"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#define-performance-and-environmental-budgets"
   },
   {
     "title": "5.28 Use Open Source Tools",
@@ -1579,6 +1671,7 @@
       "Ideation",
       "Assets",
       "Software"
-    ]
+    ],
+    "url": "https://w3c.github.io/sustyweb/#use-open-source-tools"
   }
 ]
