@@ -17,7 +17,11 @@ end
 
 def create_wsg_json(wsg_json)
     json_obj = {}
+    categories = []
+    temp_cats = []
+    tags = []
     result_json = []
+    wsg_data = {}
 
     wsg_json[Constant::CATEGORY].each do |category|
         if !category["guidelines"].nil? 
@@ -27,22 +31,37 @@ def create_wsg_json(wsg_json)
                 topic = guideline["guideline"]
                 title = section_id + "." + guideline[Constant::ID].to_s + " " + topic
                 json_obj[Constant::TITLE] = title
-                json_obj[Constant::CATEGORY] = {
+                category =  {
                     Constant::ID => section_id,
                     Constant::TITLE => section_name
                 }
+                json_obj[Constant::CATEGORY] = category
                 json_obj[Constant::DESCRIPTION] = guideline[Constant::DESCRIPTION]
                 json_obj[Constant::IMPACT] = guideline[Constant::IMPACT]
                 json_obj[Constant::EFFORT] = guideline[Constant::EFFORT]
                 json_obj[Constant::TAGS] = guideline[Constant::TAGS]
                 json_obj[Constant::URL] = generate_topic_links(topic)
+
+                categories.append(json_obj[Constant::CATEGORY])
+                tags.concat(json_obj[Constant::TAGS])
+
                 result_json.append(json_obj)
                 json_obj = {}
             end
         end
+
+        # Find all unique strings and sort
+        tags = tags.uniq.sort
+        # Find all unique hashes
+        categories = categories.uniq
+
     end
 
-    result_json
+    # Construct the wsg_data json object
+    wsg_data["categories"] = categories
+    wsg_data["tags"] = tags
+    wsg_data["data"] = result_json
+    wsg_data
 end
 
 def generate_topic_links(topic)
@@ -53,7 +72,9 @@ def generate_topic_links(topic)
 end
 
 class Constant
+    DATA = "data"
     CATEGORY = "category"
+    CATEGORIES = "categories"
     ID = "id"
     NAME = "name"
     DESCRIPTION = "description"
