@@ -1,12 +1,10 @@
-name: Update WSG Data
+name: Manual Update WSG Data
 
 on: 
-  push:
-    branches:
-      - 'master'
+  workflow_dispatch:
 
 jobs:
-  Update-WSG-Data:
+  Manual-Update-WSG-Data:
       runs-on: ubuntu-latest
       steps:
           - name: Checkout repository
