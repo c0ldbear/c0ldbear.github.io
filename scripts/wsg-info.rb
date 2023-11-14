@@ -37,8 +37,17 @@ def create_wsg_json(wsg_json)
                 }
                 json_obj[Constant::CATEGORY] = category
                 json_obj[Constant::DESCRIPTION] = guideline[Constant::DESCRIPTION]
-                json_obj[Constant::IMPACT] = guideline[Constant::IMPACT]
-                json_obj[Constant::EFFORT] = guideline[Constant::EFFORT]
+
+                impact_title = guideline[Constant::IMPACT]
+                impact = {Constant::TITLE => impact_title, 
+                Constant::VALUE => convert_title_to_value(impact_title)}
+                effort_title = guideline[Constant::IMPACT]
+                effort = {Constant::TITLE => effort_title,
+                Constant::VALUE => convert_title_to_value(impact_title)}
+
+                json_obj[Constant::IMPACT] = impact
+                json_obj[Constant::EFFORT] = effort
+
                 json_obj[Constant::TAGS] = guideline[Constant::TAGS]
                 json_obj[Constant::URL] = generate_topic_links(topic)
 
@@ -71,6 +80,19 @@ def generate_topic_links(topic)
     topic_link = base_url + topic_anchor
 end
 
+def convert_title_to_value(title)
+    case title.downcase
+    when "low"
+        1
+    when "medium"
+        2
+    when "high"
+        3
+    else # something's wrong
+        -1
+    end
+end
+
 class Constant
     DATA = "data"
     CATEGORY = "category"
@@ -86,4 +108,5 @@ class Constant
     FILENAME = "wsg-info"
     BASEURL = "https://w3c.github.io/sustyweb/"
     URL = "url"
+    VALUE = "value"
 end
