@@ -41,9 +41,9 @@ def create_wsg_json(wsg_json)
                 impact_title = guideline[Constant::IMPACT]
                 impact = {Constant::TITLE => impact_title, 
                 Constant::VALUE => convert_title_to_value(impact_title)}
-                effort_title = guideline[Constant::IMPACT]
+                effort_title = guideline[Constant::EFFORT]
                 effort = {Constant::TITLE => effort_title,
-                Constant::VALUE => convert_title_to_value(impact_title)}
+                Constant::VALUE => convert_title_to_value(effort_title)}
 
                 json_obj[Constant::IMPACT] = impact
                 json_obj[Constant::EFFORT] = effort
