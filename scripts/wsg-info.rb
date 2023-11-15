@@ -38,15 +38,16 @@ def create_wsg_json(wsg_json)
                 json_obj[Constant::CATEGORY] = category
                 json_obj[Constant::DESCRIPTION] = guideline[Constant::DESCRIPTION]
 
-                impact_title = guideline[Constant::IMPACT]
-                impact = {Constant::TITLE => impact_title, 
-                Constant::VALUE => convert_title_to_value(impact_title)}
-                effort_title = guideline[Constant::EFFORT]
-                effort = {Constant::TITLE => effort_title,
-                Constant::VALUE => convert_title_to_value(effort_title)}
+                # impact_title = guideline[Constant::IMPACT]
+                # impact = {Constant::TITLE => impact_title, 
+                # Constant::VALUE => convert_title_to_value(impact_title)}
+                json_obj[Constant::IMPACT] = generate_impact_effort_objects(guideline[Constant::IMPACT]) 
 
-                json_obj[Constant::IMPACT] = impact
-                json_obj[Constant::EFFORT] = effort
+                # effort_title = guideline[Constant::EFFORT]
+                # effort = {Constant::TITLE => effort_title,
+                # Constant::VALUE => convert_title_to_value(effort_title)}
+                # json_obj[Constant::EFFORT] = effort
+                json_obj[Constant::EFFORT] = generate_impact_effort_objects(guideline[Constant::EFFORT]) 
 
                 json_obj[Constant::TAGS] = guideline[Constant::TAGS]
                 json_obj[Constant::URL] = generate_topic_links(topic)
@@ -78,6 +79,14 @@ def generate_topic_links(topic)
 
     topic_anchor = "#" + topic.downcase.gsub(/,|'|\s|\(|\)/, '' => '', '\'' => '-', ' ' => '-')
     topic_link = base_url + topic_anchor
+end
+
+def generate_impact_effort_objects(title)
+    effort_impact_object = {
+        Constant::TITLE => title,
+        Constant::VALUE => convert_title_to_value(title)
+    }
+    effort_impact_object
 end
 
 def convert_title_to_value(title)
