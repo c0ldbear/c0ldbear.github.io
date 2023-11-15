@@ -87,8 +87,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "High",
+        "value": 3
       },
       "tags": [
         "Social Equity",
@@ -218,8 +218,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "UI",
@@ -265,8 +265,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "UI",
@@ -288,8 +288,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "UI",
@@ -312,8 +312,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Social Equity",
@@ -343,8 +343,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "High",
+        "value": 3
       },
       "tags": [
         "Content",
@@ -367,8 +367,8 @@
         "value": 1
       },
       "effort": {
-        "title": "Low",
-        "value": 1
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "UI",
@@ -416,8 +416,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Content",
@@ -442,8 +442,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Content",
@@ -468,8 +468,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Accessibility",
@@ -493,8 +493,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "UI",
@@ -569,8 +569,8 @@
         "value": 1
       },
       "effort": {
-        "title": "Low",
-        "value": 1
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Social Equity",
@@ -620,8 +620,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Content",
@@ -648,8 +648,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Social Equity",
@@ -705,8 +705,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Accessibility",
@@ -731,8 +731,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Research",
@@ -780,8 +780,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Social Equity",
@@ -857,8 +857,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "CSS",
@@ -901,8 +901,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Social Equity",
@@ -952,8 +952,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "UI",
@@ -1003,8 +1003,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Assets",
@@ -1050,8 +1050,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Accessibility",
@@ -1075,8 +1075,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Accessibility",
@@ -1098,8 +1098,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Accessibility",
@@ -1122,8 +1122,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "UI",
@@ -1146,8 +1146,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Accessibility",
@@ -1191,8 +1191,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Patterns",
@@ -1260,8 +1260,8 @@
         "value": 1
       },
       "effort": {
-        "title": "Low",
-        "value": 1
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Accessibility",
@@ -1330,8 +1330,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "UI",
@@ -1355,8 +1355,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Performance",
@@ -1376,8 +1376,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Social Equity",
@@ -1422,8 +1422,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Assets",
@@ -1469,8 +1469,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Performance",
@@ -1492,8 +1492,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Performance",
@@ -1513,8 +1513,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Usability",
@@ -1579,8 +1579,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Content",
@@ -1673,8 +1673,8 @@
         "value": 2
       },
       "effort": {
-        "title": "Medium",
-        "value": 2
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Social Equity",
@@ -1765,8 +1765,8 @@
         "value": 1
       },
       "effort": {
-        "title": "Low",
-        "value": 1
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Social Equity",
@@ -1810,8 +1810,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Education",
@@ -1853,8 +1853,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Content",
@@ -1876,8 +1876,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Compatibility",
@@ -1945,8 +1945,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Low",
+        "value": 1
       },
       "tags": [
         "Ideation",
@@ -2014,8 +2014,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Social Equity",
@@ -2035,8 +2035,8 @@
         "value": 1
       },
       "effort": {
-        "title": "Low",
-        "value": 1
+        "title": "High",
+        "value": 3
       },
       "tags": [
         "Social Equity",
@@ -2080,8 +2080,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Social Equity",
@@ -2103,8 +2103,8 @@
         "value": 1
       },
       "effort": {
-        "title": "Low",
-        "value": 1
+        "title": "High",
+        "value": 3
       },
       "tags": [
         "Social Equity",
@@ -2126,8 +2126,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Social Equity",
@@ -2170,8 +2170,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Social Equity",
@@ -2217,8 +2217,8 @@
         "value": 3
       },
       "effort": {
-        "title": "High",
-        "value": 3
+        "title": "Medium",
+        "value": 2
       },
       "tags": [
         "Social Equity",
